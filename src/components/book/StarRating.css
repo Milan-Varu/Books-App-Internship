@@ -1,0 +1,11 @@
+/* starrating.css */
+.star-rating {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  .star-icon {
+    color: gray;
+  }
+  
